@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 
+My name is Facu 
+
+This profile will be filled with a lot of content soon. Do you know why? 
+It's because I love developing. I expect to learn a lot of technologies in order to surprise you and give you enough security that you can count on me if you need some help in some proyects. Just wait for it. 
+
+How to reach me: facundomartin05@gmail.com 
+
 
 <!--
 **FacunDiaz/FacunDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
